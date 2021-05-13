@@ -6,6 +6,11 @@ in sqlfront: npm install
 
 ////////////////////////////
 in sqlback: 
-npm install 
+npm install
+
+
+
+
+
 npm run dev
 
